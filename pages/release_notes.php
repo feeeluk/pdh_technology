@@ -20,6 +20,11 @@
 
         <ul>
             <li>
+                <a href="/assets/release_notes/historical/sergeant_parkhurst.pdf" target="_blank">
+                    Version: 1.00.003 - Released on 4th May 2026
+                </a>
+            </li>
+            <li>
                 <a href="/assets/release_notes/historical/private_baldrick.pdf" target="_blank">
                     Version: 1.00.002 - Released on 19th April 2026
                 </a>
