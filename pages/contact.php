@@ -40,11 +40,23 @@
             <h1 class="item--Title">
                 Contact us
             </h1>
-            
+
+        </div>
+
+        <div id="" class="box--WithPadding item">
+
             <p>
-                Phone: 01482 653509 
-                <br>
-                Email: hello@pdhtechnology.com
+                You can get in touch with us directly by either dropping us an email, or giving us a call (see details below).
+            </p>
+
+            <ul>
+                <li>Phone: 01482 653509 </li>
+                
+                <li>Email: hello@pdhtechnology.com</li>
+            </ul>
+
+            <p>
+                Alternatively you can send us a messgae using the form below:
             </p>
 
         </div>
@@ -71,7 +83,7 @@
                 echo        "Error!";
                 echo    "</h3>";
                 echo    "<p class=''>";
-                echo        "Your message has not been sent. Please try again.<br>";
+                echo        "Your message has passed 'validation' BUT has NOT been sent. Please try again.<br>";
                             if ($attempt > 0)
                             {
                                 echo " (attempt #".$attempt.")";
